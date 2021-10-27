@@ -1,0 +1,28 @@
+{
+   "name" :"sidik Wijaya",
+    "orderNumber" : 76542019,
+    "courier" : "JNE",
+  "product" : [{
+    "id": "250",
+    "name" :"sidik Wijaya",
+    "orderNumber" : 76542019,
+    "courier" : "JNE",
+    "total": 20000000,
+    "code" : 200,
+    "succes" : true
+  },
+    {
+      "item" : "laptop Asus",
+      "price" : 12000000
+    },
+    {
+      "item": "laptop acer",
+      "price": 10000000
+    },
+    {
+      "item": "Macbook pro",
+      "price": 30000000
+    }
+  ]
+
+}
